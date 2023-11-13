@@ -1,5 +1,5 @@
 # Background
-The origin code is forked from https://github.com/gxlover0625/pytorch-ddpm.
+The origin code is forked from https://github.com/w86763777/pytorch-ddpm.
 And we extend the code with the implementation of DDIM.
 
 # Dataset
